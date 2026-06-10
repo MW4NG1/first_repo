@@ -1,1 +1,2 @@
 Hello I am Michael and this is a test commit for this repository
+Hello I am Mwangi and this is a test commit for this repository
